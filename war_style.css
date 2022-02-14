@@ -1,0 +1,33 @@
+*{
+  box-sizing: border-box;
+}
+
+body, html {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: serif;
+  color: #000000;
+}
+
+.photo_duo_impounded{
+  background-color: #000000;
+  margin: 0;
+  padding: 0;
+  width: 40%;
+  display: inline-block;
+}
+.photo_duo{
+  background-color: #000000;
+  margin: 0;
+  padding: 0;
+  width: 40%;
+  display: inline-block;
+}
+.lange_photos{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
