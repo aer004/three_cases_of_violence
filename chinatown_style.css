@@ -43,12 +43,3 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
-
-.description{
-  margin-left: 10%;
-  margin-right: 10%;
-  color: #ffffff;
-  font-size: 3vw;
-  text-align: center;
-  display: inline-block;
-  }
